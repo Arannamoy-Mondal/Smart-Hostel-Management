@@ -1,6 +1,5 @@
 ```mermaid
-flowchart TD
-
+flowchart TD;
 A[React Frontend (View Layer)]
 B[Spring Boot Controller (REST API)]
 C[Service Layer (Business Logic)]
